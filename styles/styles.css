@@ -1,0 +1,50 @@
+
+* {
+
+padding: 0px;
+margin: 0px;
+
+}
+
+.section {
+    height: 100%;
+
+background-color: rgb(39, 41, 37) ;
+gap: 20px;
+
+}
+
+.content {
+
+height: 100%;
+text-align: center;
+margin-top: 5px;
+
+
+}
+
+.texte {
+
+background-color: rgb(222, 223, 223);
+height: 100%;
+
+}
+
+
+
+.button {
+
+background-color: rgb(255, 255, 255);
+cursor: pointer;
+height: 100px;
+width: 250px;
+border-radius: 10px;
+
+
+}
+.button:hover {
+
+    background-color: rgb(255, 0, 0);
+    
+    
+    }
